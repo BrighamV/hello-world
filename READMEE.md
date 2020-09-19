@@ -19,3 +19,4 @@ To execute the program `python hello.py`
 # useful websites
 
 [instruction video](https://video.byui.edu/media/0_v2afnpby)
+[another instruction video](https://www.youtube.com/watch?v=Czfxm5qMb3I&feature=youtu.be)
